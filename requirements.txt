@@ -1,4 +1,5 @@
 #requirements.txt
+git+https://github.com/SomePackage#egg=pip
 python
 snowflake-connector-python
 snowflake-snowpark-python
