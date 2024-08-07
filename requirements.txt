@@ -1,5 +1,4 @@
 #requirements.txt
- `--prerelease=allow`
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit
