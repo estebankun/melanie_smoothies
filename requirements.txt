@@ -1,5 +1,5 @@
 #requirements.txt
-python=3.8.dev0--prerelease=allow
+python==3.8.dev0--prerelease=allow
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit
