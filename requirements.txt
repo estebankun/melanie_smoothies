@@ -1,6 +1,4 @@
 #requirements.txt
-pip install -r requirements.txt
-python==3.8.*
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit==1.22
