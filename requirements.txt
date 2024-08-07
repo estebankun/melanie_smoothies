@@ -1,4 +1,5 @@
 #requirements.txt
+python=3.8.dev0
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit
