@@ -1,6 +1,5 @@
 #requirements.txt
-pip install
-python==3.8.dev0
+python
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit
